@@ -15,3 +15,7 @@
 - ⚡ **Fun Fact**: Did you know that bananas are naturally slightly radioactive due to their potassium content? Don't worry, though; you'd need to eat thousands of bananas in a short amount of time for it to have any noticeable effect on your health!
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's create something awesome together!
+
+<p align="center">
+  <img src="https://github.com/LillaOconnor/LillaOconnor/blob/main/lilla_marathon.jpeg?raw=true" alt="Running a Marathon">
+</p>
