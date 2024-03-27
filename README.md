@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lilla O'Connor
 
-Welcome to my GitHub repository! I'm passionate about various aspects of technology, fitness, wine, and our planet. Here's a bit more about me:
+## Welcome to my GitHub repository! I'm passionate about various aspects of technology, fitness, wine, and our planet. Here's a bit more about me:
 
 - 👀 **Interests**: I'm fascinated by everything computer-based, enjoy exploring new technologies, love running, and hold a WSET Level 3 certification in wine. I'm also deeply interested in environmental sustainability and the mysteries of the universe.
 
